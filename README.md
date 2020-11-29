@@ -1,2 +1,3 @@
 # nwlAula02
-Repository for files use on class 02 nwl
+Repository for files used on class 02 nwl
+29/11/2020
